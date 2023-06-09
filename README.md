@@ -3,5 +3,5 @@
 •Needed module ```colorama```  
 •```pip install colorama```
 
-#Use
+# Use
 •Enter a hexadecimal number and get a decimal
